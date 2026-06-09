@@ -1,0 +1,13 @@
+# Default Configuration
+
+vehicle:
+  mass: 1000  # kg
+  resistance_coefficient: 0.015
+
+simulation:
+  time_step: 0.01  # seconds
+  max_time: 100  # seconds
+
+control:
+  max_traction_force: 10000  # N
+  min_traction_force: -8000  # N (braking)
