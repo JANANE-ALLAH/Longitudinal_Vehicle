@@ -1,0 +1,14 @@
+
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Git
+- pip or conda for package management
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/JANANE-ALLAH/Longitudinal_Vehicle.git
+cd Longitudinal_Vehicle
