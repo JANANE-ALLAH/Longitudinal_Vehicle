@@ -1,0 +1,32 @@
+
+
+F_net = F_traction - F_resistance a = F_net / m v = v + a * dt
+
+
+
+
+Where:
+- F_traction: Applied traction force (N)
+- F_resistance: Aerodynamic and rolling resistance (N)
+- m: Vehicle mass (kg)
+- a: Acceleration (m/s²)
+- v: Velocity (m/s)
+
+### Control Strategy
+
+TBD - To be implemented in future versions.
+
+### Performance Metrics
+
+Key metrics for evaluation:
+- Response time
+- Steady-state error
+- Overshoot percentage
+- Stability margins
+
+### Testing Strategy
+
+1. Unit tests for individual components
+2. Integration tests for system behavior
+3. Simulation-based validation
+4. Hardware-in-the-loop testing (future)
